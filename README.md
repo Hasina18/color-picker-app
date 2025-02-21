@@ -1,9 +1,7 @@
 # 🎨 Color Picker App  
 
 A simple and interactive **Color Picker** built with **React.js**! Select a color and instantly view its **HEX & RGB values**.  
-
-![Color Picker Preview](https://via.placeholder.com/800x400.png?text=Color+Picker+App)  
-*(Replace this with an actual screenshot of your app)*  
+ 
 
 ---
 
@@ -43,8 +41,4 @@ git clone https://github.com/your-username/color-picker-app.git
 cd color-picker-app
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
